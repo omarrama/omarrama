@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Omar Ramadan
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning Python, React, JavaScript, CSS3, HTML5
+- 👋 Hi, I’m Omar.
+- 👀 I’m interested in front-end web development.
+- 🌱 I’m currently learning CSS, JavaScript, React.
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
